@@ -14,7 +14,7 @@ drive.mount('')
 ```
 
 - ### STEP 2
-If one of the languages is an Indian language, it might help to import the indic-nlp-library which is helpful in common text processing of Indian languages. Since the example used was Hindi, this piece of code is been used by default. It can be commneted out if you are using both non-Indian languages.
+If one of the languages is an Indian language, it might help to import the indic-nlp-library which is helpful in common text processing of Indian languages. Since the example used was Hindi, this piece of code is been used by default. It can be commented out if you are using both non-Indian languages.
 
 ```
 %%capture
