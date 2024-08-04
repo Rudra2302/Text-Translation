@@ -3,6 +3,10 @@ An application of GRU(Gated Recurrent Unit) models to translate a sentence in on
 
 English to Hindi was taken as an example for writing the code but it is applicable to almost language conversions. Although, right now, preprocessing in the code is only for certain languages, more will be added in the future
 
+## Data
+
+2 files have been provided under `data/` folder named `English.txt` and `Hindi.txt`. These files can be downloaded or will be available automatically if the repository is cloned. These files have been taken from cfilt.iitb.ac.in website. The website also has much more extensive files which can be downloaded in case of more intensive training.
+
 ## Loading Data
 
 - ### STEP 1
